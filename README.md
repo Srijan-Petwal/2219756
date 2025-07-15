@@ -37,7 +37,7 @@
 | Frontend | Details |
 |----------|---------|
 | Framework | React with Vite |
-| Language | TypeScript/JavaScript |
+| Language |JavaScript |
 | Styling | Vanilla CSS |
 | Routing | React Router DOM |
 | Logging | Custom Middleware (via fetch) |
