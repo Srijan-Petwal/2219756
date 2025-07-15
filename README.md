@@ -6,17 +6,17 @@
 
 ### ✅ Home Page (Desktop)
 
-> _Attach screenshot here_
+
 ![Home Page Desktop](frontend-test/screenshots/Desktop_View.png)
 
 ### 📱 Home Page (Mobile)
 
-> _Attach screenshot here_
+
 ![Home Page Mobile](frontend-test/screenshots/Mobile_View.png)
 
 ### 📊 Statistics Page 
 
-> _Attach screenshot here_
+
 ![Statistics](frontend-test/screenshots/Statistics_Page.png)
 
 ### Insomnia Screenshot for test logger( hidden private details)
