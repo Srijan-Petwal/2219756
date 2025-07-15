@@ -296,3 +296,17 @@ body {
     text-align: center;
   }
 }
+
+.test-logger{
+    position:absolute;
+    left: 50%;
+    bottom: 5%;
+
+}
+.test-logger button{
+    font-weight: 300;
+    margin-top: 1.5rem;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(221, 245, 186);
+}

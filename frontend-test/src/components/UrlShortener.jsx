@@ -150,7 +150,7 @@ const UrlShortener = () => {
                 <tr key={i}>
                   <td>{r.originalUrl}</td>
                   <td>
-                    <a href={r.shortUrl} target="_blank" rel="noreferrer">
+                    <a href={r.shortUrl} target="_blank" >
                       {r.shortUrl}
                     </a>
                   </td>

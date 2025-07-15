@@ -1,6 +1,5 @@
-// App.js
-//import React from 'react';
-//import { log } from '../../Logging_Midddleware/logging.js'; 
+
+import { log } from '../../Logging_Midddleware/logging.js'; 
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { UrlProvider } from './contextProvider/UrlContext';
@@ -11,15 +10,13 @@ import RedirectHandler from './components/RedirectHandler';
 import NotFound from './components/NotFound';
 
 function App() {
-  // const handleClick = () => {
-  //   log("info", "component", "User clicked the Log button");
-  // };
+  const handleClick = () => {
+    log("info", "component", "User clicked the Log button");
+  };
 
   return (
-    // <div >
-    //   <p>Testing logger</p>
-    //   <button onClick={handleClick}>Send Log</button>
-    // </div>
+    <>
+    
     <UrlProvider>
       <Router>
         <div className="app">
@@ -35,6 +32,12 @@ function App() {
         </div>
       </Router>
     </UrlProvider>
+    
+    <div className='test-logger' >
+      <p>Testing logger</p>
+       <button onClick={handleClick}>Send Log</button>
+     </div>
+    </>
   );
 }
 
