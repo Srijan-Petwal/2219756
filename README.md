@@ -62,3 +62,5 @@
 ```bash
 git clone https://github.com/your-username/frontend-test.git
 cd frontend-test
+npm install
+npm run dev
