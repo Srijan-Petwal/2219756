@@ -19,6 +19,9 @@
 > _Attach screenshot here_
 ![Statistics](frontend-test/screenshots/Statistics_Page.png)
 
+### Insomnia Screenshot for test logger( hidden private details)
+
+![Insomnia](frontend-test/screenshots/Insomnia_Screenshot.jpg)
 
 ---
 
