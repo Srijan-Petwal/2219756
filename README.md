@@ -23,6 +23,9 @@
 
 ![Insomnia](frontend-test/screenshots/Insomnia_Screenshot.jpg)
 
+### Initial implementation of test logger( hidden private details)
+
+![Test Logger in web view](frontend-test/screenshots/test_logger_successfully_implemented.jpg)
 ---
 
 ## Features
