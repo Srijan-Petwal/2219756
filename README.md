@@ -61,7 +61,7 @@
 
 ## 📦 Getting Started
 
-1. Clone the repo
+Clone the repo and setup project locally
 ```bash
 git clone https://github.com/your-username/frontend-test.git
 cd frontend-test
