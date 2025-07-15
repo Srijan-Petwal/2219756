@@ -57,8 +57,7 @@
 |------|-----------|---------|
 | `/` | `UrlShortener` | Form to shorten URLs |
 | `/stats` | `Statistics` | Displays all shortened links |
-| `/:shortcode` | `RedirectHandler` | Handles redirection |
-| `/404` | `NotFound` | Shown when URL is invalid |
+
 
 ---
 
