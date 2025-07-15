@@ -1,7 +1,8 @@
-#URL Shortener
----
 
-## 🖥️ Screenshots
+---
+#URL Shortener
+
+## Screenshots
 
 ### ✅ Home Page (Desktop)
 
@@ -21,7 +22,7 @@
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Shorten multiple URLs at once 
 - Set custom shortcodes 
@@ -32,7 +33,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Frontend | Details |
 |----------|---------|
