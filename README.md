@@ -65,7 +65,7 @@
 
 Clone the repo and setup project locally
 ```bash
-git clone https://github.com/your-username/frontend-test.git
+git clone https://github.com/srijan-petwal/2219756.git
 npm install (for react-router-dom)
 cd frontend-test
 npm install (for other dev dependecies)
